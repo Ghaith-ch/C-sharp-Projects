@@ -1,0 +1,230 @@
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\bin\Debug\Shop Management.exe.config
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\bin\Debug\Shop Management.exe
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\bin\Debug\Shop Management.pdb
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\obj\Debug\Shop Management.csproj.AssemblyReference.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\obj\Debug\Shop Management.csproj.SuggestedBindingRedirects.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\obj\Debug\Shop_Management.Properties.Resources.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\obj\Debug\Shop Management.csproj.GenerateResource.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\obj\Debug\Shop Management.csproj.CoreCompileInputs.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\obj\Debug\Shop Management.exe
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\obj\Debug\Shop Management.pdb
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\obj\Debug\Shop Management.csproj.CopyComplete
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\obj\Debug\Shop_Management.Warehouse_Interface.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\bin\Debug\CsvHelper.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\bin\Debug\System.Buffers.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\bin\Debug\System.Memory.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\bin\Debug\System.Numerics.Vectors.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\bin\Debug\CsvHelper.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\bin\Debug\System.Buffers.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\bin\Debug\System.Memory.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\bin\Debug\System.Numerics.Vectors.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\obj\Debug\Shop_Management.UserControl1.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\obj\Debug\Shop_Management.AddBookForm.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\obj\Debug\Shop_Management.AddGameForm.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\obj\Debug\Shop_Management.AddFilmForm.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee\Shop Management\obj\Debug\Shop_Management.Order_Interface.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\obj\Debug\Shop Management.csproj.AssemblyReference.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\obj\Debug\Shop Management.csproj.SuggestedBindingRedirects.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\obj\Debug\Shop_Management.AddBookForm.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\obj\Debug\Shop_Management.AddFilmForm.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\obj\Debug\Shop_Management.AddGameForm.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\obj\Debug\Shop_Management.Order_Interface.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\obj\Debug\Shop_Management.UserControl1.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\obj\Debug\Shop_Management.Warehouse_Interface.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\obj\Debug\Shop_Management.Properties.Resources.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\obj\Debug\Shop Management.csproj.GenerateResource.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\obj\Debug\Shop Management.csproj.CoreCompileInputs.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\obj\Debug\Shop Management.exe
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\obj\Debug\Shop Management.pdb
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\bin\Debug\Shop Management.exe.config
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\bin\Debug\Shop Management.exe
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\bin\Debug\Shop Management.pdb
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\bin\Debug\CsvHelper.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\bin\Debug\System.Buffers.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\bin\Debug\System.Memory.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\bin\Debug\System.Numerics.Vectors.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\bin\Debug\CsvHelper.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\bin\Debug\System.Buffers.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\bin\Debug\System.Memory.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\bin\Debug\System.Numerics.Vectors.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\eee - Copy\Shop Management\obj\Debug\Shop Management.csproj.CopyComplete
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\bin\Debug\Shop Management.exe.config
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\bin\Debug\Shop Management.exe
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\bin\Debug\Shop Management.pdb
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\bin\Debug\CsvHelper.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\bin\Debug\System.Buffers.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\bin\Debug\System.Memory.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\bin\Debug\System.Numerics.Vectors.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\bin\Debug\CsvHelper.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\bin\Debug\System.Buffers.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\bin\Debug\System.Memory.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\bin\Debug\System.Numerics.Vectors.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\obj\Debug\Shop Management.csproj.AssemblyReference.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\obj\Debug\Shop Management.csproj.SuggestedBindingRedirects.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\obj\Debug\Shop_Management.AddBookForm.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\obj\Debug\Shop_Management.AddFilmForm.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\obj\Debug\Shop_Management.AddGameForm.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\obj\Debug\Shop_Management.Order_Interface.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\obj\Debug\Shop_Management.Warehouse_Interface.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\obj\Debug\Shop_Management.Properties.Resources.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\obj\Debug\Shop Management.csproj.GenerateResource.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\obj\Debug\Shop Management.csproj.CoreCompileInputs.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\obj\Debug\Shop Management.csproj.CopyComplete
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\obj\Debug\Shop Management.exe
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\obj\Debug\Shop Management.pdb
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\bin\Debug\Shop Management.exe.config
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\bin\Debug\Shop Management.exe
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\bin\Debug\Shop Management.pdb
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\bin\Debug\CsvHelper.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\bin\Debug\System.Buffers.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\bin\Debug\System.Memory.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\bin\Debug\System.Numerics.Vectors.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\bin\Debug\CsvHelper.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\bin\Debug\System.Buffers.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\bin\Debug\System.Memory.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\bin\Debug\System.Numerics.Vectors.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\obj\Debug\Shop Management.csproj.AssemblyReference.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\obj\Debug\Shop Management.csproj.SuggestedBindingRedirects.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\obj\Debug\Shop_Management.AddBookForm.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\obj\Debug\Shop_Management.AddFilmForm.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\obj\Debug\Shop_Management.AddGameForm.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\obj\Debug\Shop_Management.Order_Interface.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\obj\Debug\Shop_Management.Warehouse_Interface.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\obj\Debug\Shop_Management.Properties.Resources.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\obj\Debug\Shop Management.csproj.GenerateResource.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\obj\Debug\Shop Management.csproj.CoreCompileInputs.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\obj\Debug\Shop Management.csproj.CopyComplete
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\obj\Debug\Shop Management.exe
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management - Cttest\obj\Debug\Shop Management.pdb
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Shop Management\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\bin\Debug\Shop Management.exe.config
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\bin\Debug\Shop Management.exe
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\bin\Debug\Shop Management.pdb
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\bin\Debug\CsvHelper.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\bin\Debug\System.Buffers.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\bin\Debug\System.Memory.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\bin\Debug\System.Numerics.Vectors.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\bin\Debug\CsvHelper.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\bin\Debug\System.Buffers.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\bin\Debug\System.Memory.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\bin\Debug\System.Numerics.Vectors.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\obj\Debug\Shop Management.csproj.AssemblyReference.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\obj\Debug\Shop Management.csproj.SuggestedBindingRedirects.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\obj\Debug\Shop_Management.AddBookForm.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\obj\Debug\Shop_Management.AddFilmForm.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\obj\Debug\Shop_Management.AddGameForm.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\obj\Debug\Shop_Management.Order_Interface.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\obj\Debug\Shop_Management.Warehouse_Interface.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\obj\Debug\Shop_Management.Properties.Resources.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\obj\Debug\Shop Management.csproj.GenerateResource.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\obj\Debug\Shop Management.csproj.CoreCompileInputs.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\obj\Debug\Shop Management.csproj.CopyComplete
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\obj\Debug\Shop Management.exe
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb4\Shop Management\obj\Debug\Shop Management.pdb
+D:\Desktop\Shop Management\bin\Debug\Shop Management.exe.config
+D:\Desktop\Shop Management\bin\Debug\Shop Management.exe
+D:\Desktop\Shop Management\bin\Debug\Shop Management.pdb
+D:\Desktop\Shop Management\bin\Debug\CsvHelper.dll
+D:\Desktop\Shop Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\Shop Management\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Desktop\Shop Management\bin\Debug\System.Buffers.dll
+D:\Desktop\Shop Management\bin\Debug\System.Memory.dll
+D:\Desktop\Shop Management\bin\Debug\System.Numerics.Vectors.dll
+D:\Desktop\Shop Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\Shop Management\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Desktop\Shop Management\bin\Debug\CsvHelper.xml
+D:\Desktop\Shop Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Desktop\Shop Management\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Desktop\Shop Management\bin\Debug\System.Buffers.xml
+D:\Desktop\Shop Management\bin\Debug\System.Memory.xml
+D:\Desktop\Shop Management\bin\Debug\System.Numerics.Vectors.xml
+D:\Desktop\Shop Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\Shop Management\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Desktop\Shop Management\obj\Debug\Shop Management.csproj.AssemblyReference.cache
+D:\Desktop\Shop Management\obj\Debug\Shop Management.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Shop Management\obj\Debug\Shop_Management.AddBookForm.resources
+D:\Desktop\Shop Management\obj\Debug\Shop_Management.AddFilmForm.resources
+D:\Desktop\Shop Management\obj\Debug\Shop_Management.AddGameForm.resources
+D:\Desktop\Shop Management\obj\Debug\Shop_Management.Order_Interface.resources
+D:\Desktop\Shop Management\obj\Debug\Shop_Management.Warehouse_Interface.resources
+D:\Desktop\Shop Management\obj\Debug\Shop_Management.Properties.Resources.resources
+D:\Desktop\Shop Management\obj\Debug\Shop Management.csproj.GenerateResource.cache
+D:\Desktop\Shop Management\obj\Debug\Shop Management.csproj.CoreCompileInputs.cache
+D:\Desktop\Shop Management\obj\Debug\Shop Management.csproj.CopyComplete
+D:\Desktop\Shop Management\obj\Debug\Shop Management.exe
+D:\Desktop\Shop Management\obj\Debug\Shop Management.pdb
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\bin\Debug\Shop Management.exe.config
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\bin\Debug\Shop Management.exe
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\bin\Debug\Shop Management.pdb
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\bin\Debug\CsvHelper.dll
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\bin\Debug\System.Buffers.dll
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\bin\Debug\System.Memory.dll
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\bin\Debug\System.Numerics.Vectors.dll
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\bin\Debug\CsvHelper.xml
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\bin\Debug\System.Buffers.xml
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\bin\Debug\System.Memory.xml
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\bin\Debug\System.Numerics.Vectors.xml
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\obj\Debug\Shop Management.csproj.AssemblyReference.cache
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\obj\Debug\Shop Management.csproj.SuggestedBindingRedirects.cache
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\obj\Debug\Shop_Management.AddBookForm.resources
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\obj\Debug\Shop_Management.AddFilmForm.resources
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\obj\Debug\Shop_Management.AddGameForm.resources
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\obj\Debug\Shop_Management.Order_Interface.resources
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\obj\Debug\Shop_Management.Warehouse_Interface.resources
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\obj\Debug\Shop_Management.Properties.Resources.resources
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\obj\Debug\Shop Management.csproj.GenerateResource.cache
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\obj\Debug\Shop Management.csproj.CoreCompileInputs.cache
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\obj\Debug\Shop Management.csproj.CopyComplete
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\obj\Debug\Shop Management.exe
+D:\Webbutvecklare\Lasar2\C# DVGB07\C#\New folder\Labb4\Shop Management\obj\Debug\Shop Management.pdb

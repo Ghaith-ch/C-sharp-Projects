@@ -1,0 +1,33 @@
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Notepad\bin\Debug\Notepad.exe.config
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Notepad\bin\Debug\Notepad.exe
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Notepad\bin\Debug\Notepad.pdb
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Notepad\obj\Debug\Notepad.csproj.SuggestedBindingRedirects.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Notepad\obj\Debug\Notepad.exe
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Notepad\obj\Debug\Notepad.pdb
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Notepad\obj\Debug\Notepad.Form.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Notepad - Copy\bin\Debug\Notepad.exe.config
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Notepad - Copy\bin\Debug\Notepad.exe
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Notepad - Copy\bin\Debug\Notepad.pdb
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Notepad - Copy\obj\Debug\Notepad.csproj.AssemblyReference.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Notepad - Copy\obj\Debug\Notepad.csproj.SuggestedBindingRedirects.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Notepad - Copy\obj\Debug\Notepad.Form.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Notepad - Copy\obj\Debug\Notepad.Properties.Resources.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Notepad - Copy\obj\Debug\Notepad.csproj.GenerateResource.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Notepad - Copy\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Notepad - Copy\obj\Debug\Notepad.exe
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Notepad - Copy\obj\Debug\Notepad.pdb
+D:\Desktop\ghggg\Notepad\bin\Debug\Notepad.exe.config
+D:\Desktop\ghggg\Notepad\bin\Debug\Notepad.exe
+D:\Desktop\ghggg\Notepad\bin\Debug\Notepad.pdb
+D:\Desktop\ghggg\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+D:\Desktop\ghggg\Notepad\obj\Debug\Notepad.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\ghggg\Notepad\obj\Debug\Notepad.Form.resources
+D:\Desktop\ghggg\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+D:\Desktop\ghggg\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+D:\Desktop\ghggg\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+D:\Desktop\ghggg\Notepad\obj\Debug\Notepad.exe
+D:\Desktop\ghggg\Notepad\obj\Debug\Notepad.pdb

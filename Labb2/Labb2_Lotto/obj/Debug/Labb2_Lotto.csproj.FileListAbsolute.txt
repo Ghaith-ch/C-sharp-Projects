@@ -1,0 +1,22 @@
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb2_Lotto\obj\Debug\Labb2_Lotto.csproj.AssemblyReference.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb2_Lotto\obj\Debug\Labb2_Lotto.csproj.SuggestedBindingRedirects.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb2_Lotto\obj\Debug\Labb2_Lotto.LottoForm.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb2_Lotto\obj\Debug\Labb2_Lotto.Properties.Resources.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb2_Lotto\obj\Debug\Labb2_Lotto.csproj.GenerateResource.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb2_Lotto\obj\Debug\Labb2_Lotto.csproj.CoreCompileInputs.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb2_Lotto\bin\Debug\Labb2_Lotto.exe.config
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb2_Lotto\bin\Debug\Labb2_Lotto.exe
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb2_Lotto\bin\Debug\Labb2_Lotto.pdb
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb2_Lotto\obj\Debug\Labb2_Lotto.exe
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb2_Lotto\obj\Debug\Labb2_Lotto.pdb
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb2_Lotto my version - Copy\bin\Debug\Labb2_Lotto.exe.config
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb2_Lotto my version - Copy\bin\Debug\Labb2_Lotto.exe
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb2_Lotto my version - Copy\bin\Debug\Labb2_Lotto.pdb
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb2_Lotto my version - Copy\obj\Debug\Labb2_Lotto.csproj.AssemblyReference.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb2_Lotto my version - Copy\obj\Debug\Labb2_Lotto.csproj.SuggestedBindingRedirects.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb2_Lotto my version - Copy\obj\Debug\Labb2_Lotto.LottoForm.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb2_Lotto my version - Copy\obj\Debug\Labb2_Lotto.Properties.Resources.resources
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb2_Lotto my version - Copy\obj\Debug\Labb2_Lotto.csproj.GenerateResource.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb2_Lotto my version - Copy\obj\Debug\Labb2_Lotto.csproj.CoreCompileInputs.cache
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb2_Lotto my version - Copy\obj\Debug\Labb2_Lotto.exe
+D:\Webbutvecklare\Läsår2\C# DVGB07\C#\Labb2_Lotto my version - Copy\obj\Debug\Labb2_Lotto.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cce6fe54-62bb-4ec8-8848-ed24f97d299e": {
+      "ProjectGuid": "cce6fe54-62bb-4ec8-8848-ed24f97d299e",
+      "DisplayName": "Labb2_Lotto",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
